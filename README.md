@@ -90,7 +90,7 @@ show &lt;class name&gt; &lt;object id&gt; <br> ``Ex: show User it's_id ``
 
 **Updating an Object** <br>
 
-update &lt;class name&gt; &lt;object id&gt; &lt;attribute name&gt; &lt;value&gt; <br> ``Ex: update User it'_id name Mohamed``
+update &lt;class name&gt; &lt;object id&gt; &lt;attribute name&gt; &lt;value&gt; <br> ``Ex: update User it'_id name Asmaa``
 
 -> this will update the specified attribute value to Mohamed in the specified instance
 
