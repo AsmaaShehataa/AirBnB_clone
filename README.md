@@ -1,4 +1,4 @@
-# Welcom to the Airbnb Clone Project Folder
+# Welcome to the Airbnb Clone Project Folder
 <img src="https://user-images.githubusercontent.com/69850751/175876062-f252cc1b-bd44-46b3-9ddb-a7692b2eede4.png" alt="this is the holbertoon school / alx logo" />
 
 
